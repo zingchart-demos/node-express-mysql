@@ -11,8 +11,6 @@ This is an example of a Node/Express application that connects to a MySQL databa
 
 4. In the formatData loop, change the key names that are being pulled from each object in `dataArray` to fit your data.
 
-5. On the command line, navigate to the `Node/MySQL` directory.
+5. Run `node server.js` to start the Express server.
 
-6. Run `node server.js` to start the Express server.
-
-7. In your application, make a GET request to `localhost:3000/test` to retrieve your database data for use in a chart.
+6. In your application, make a GET request to `localhost:3000/test` to retrieve your database data for use in a chart.
